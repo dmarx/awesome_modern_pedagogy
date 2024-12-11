@@ -1,8 +1,8 @@
-# Case Studies in Examplary Pedagogy in AI/ML
+# Case Studies in Examplary Pedagogy
 
 Curating a collection of resources that demonstrate how to explain AI concepts particularly well.
 
-## Da List
+##  ...in AI/ML
 
 * selections from distill.pub
 * ecolah blog post on manifold learning
@@ -14,11 +14,15 @@ Curating a collection of resources that demonstrate how to explain AI concepts p
 * selections from fast.ai
 * whatever that illustration of the different parallelization schemes was
 * 3b1b selections
-* that video deriving the gaussian distribution
 * that video illustrating how to use dual numbers for forward mode differentiation
 * srush selection, e.g. tensor puzzles, minitorch
 * that LLM from scratch video, I wanna say... karpathy?
+* the galaxy zoo solution blog post
+* selection from HF, call it the transformers course?
+* scrollytelling selection
 
-## Honorable Mentions
+## ...in Topics Adjacent to AI/ML
 
-* that rust puzzle thing
+* that rust puzzle-style tutorial. rustlings?
+* that video deriving the gaussian distribution
+* those videos on continuity, curvature, splines.... what's her face, can't recall her name
