@@ -20,6 +20,8 @@ Curating a collection of resources that demonstrate how to explain AI concepts p
 * the galaxy zoo solution blog post
 * selection from HF, call it the transformers course?
 * scrollytelling selection
+* Fancy flow matching blog post - https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/
+* that meta flow matching blog post
 
 ## ...in Topics Adjacent to AI/ML
 
