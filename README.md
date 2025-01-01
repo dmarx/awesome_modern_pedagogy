@@ -21,7 +21,7 @@ Curating a collection of resources that demonstrate how to explain AI concepts p
 * selection from HF, call it the transformers course?
 * scrollytelling selection
 * Fancy flow matching blog post - https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/
-
+* relationship between diffusion and flow matching - https://diffusionflow.github.io/
 
 ## ...in Topics Adjacent to AI/ML
 
