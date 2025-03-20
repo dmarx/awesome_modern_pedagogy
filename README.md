@@ -28,3 +28,5 @@ Curating a collection of resources that demonstrate how to explain AI concepts p
 * that rust puzzle-style tutorial. rustlings?
 * that video deriving the gaussian distribution - https://www.youtube.com/watch?v=cTyPuZ9-JZ0
 * those videos on continuity, curvature, splines.... what's her face, can't recall her name
+  * freya holmer
+  * the continuity of splines - https://www.youtube.com/watch?v=jvPPXbo87ds
